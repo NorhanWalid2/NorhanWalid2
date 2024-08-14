@@ -48,12 +48,15 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaraSaad&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NorhanWalid2
+&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=SaraSaad&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=SaraSaad&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=NorhanWalid2
+&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=NorhanWalid2
+&style=for-the-badge">
 </a>
 
 ### 📊 Profile stats
 
-[![Sara Saad's github stats](https://github-readme-stats.vercel.app/api?username=SaraSaad&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]([https://github.com/Hagershohieb/github-readme](https://github.com/SaraSaadMohamud/SaraSaadMohamud/edit/main/README.md)-stats)
+[![Norhan Walid's github stats](https://github-readme-stats.vercel.app/api?username=NorhanWalid2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]([https://github.com/Hagershohieb/github-readme](https://github.com/SaraSaadMohamud/SaraSaadMohamud/edit/main/README.md)-stats)
