@@ -29,11 +29,11 @@
 
 ### 🛠 &nbsp;Tech Stack
 - 💻 &nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
+![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
 ![c++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=c++)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=flat&logo=Verilog&logoColor=007ACC)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=Dart3&logoColor=1572B6)&nbsp;
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
