@@ -11,14 +11,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 **Al_azher University - Faculty of Engineering**
+- 🏢 **Benha University - Faculty of Computer Science and artifitial intelgenus**
 - 🏢 Embedded System Trainee | learn in depth trainee.
-- 👨‍💻 Aspire to be an a Electronisc and communication Enginnering. I'm constantly learning new technologies to improve my skills.
+- 👨‍💻 I'm constantly learning new technologies to improve my skills.
 - 💬 **Ask me about**:
-- 🎯My experience with C, C++, and python, Virlog, or anything related to Embedded System Concepts.
-- 🎯 **Smart Farm** project.
-- 🌟 **Current Project**:Develop problem-solving skills,Pursuing the First term in leran in depth deploma with Eng.Kerlos.
-- 🌟 **Unique Experience**: Volunteering in many teams in different tracks.
+- 🎯My experience with  C++, java , dart and python, Virlog.
+- 🎯 **Reservation aireline tickets** project.
+- 🎯 **Bank system** project.
+- 🎯 **Event Management system** project.
+  
 --- 
 ### Connect with Me :
 
