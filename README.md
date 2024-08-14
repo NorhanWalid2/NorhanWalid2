@@ -30,14 +30,20 @@
 ### 🛠 &nbsp;Tech Stack
 - 💻 &nbsp;
 ![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
-![c++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=c++)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=flat&logo=Verilog&logoColor=007ACC)&nbsp;
-![Dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=Dart3&logoColor=1572B6)&nbsp;
-- ⚙️ &nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
+![Data Base](https://img.shields.io/badge/-Data%20Base-05122A?style=flat&logo=Data-Base&logoColor=339933)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android%20Studio)&nbsp;
+![OOP](https://img.shields.io/badge/-OOP-05122A?style=flat&logo=OOP)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaraSaad&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
