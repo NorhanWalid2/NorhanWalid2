@@ -57,6 +57,4 @@
 &style=for-the-badge">
 </a>
 
-### 📊 Profile stats
-
-[![Norhan Walid's github stats](https://github-readme-stats.vercel.app/api?username=NorhanWalid2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)]([https://github.com/Hagershohieb/github-readme](https://github.com/SaraSaadMohamud/SaraSaadMohamud/edit/main/README.md)-stats)
+ 
