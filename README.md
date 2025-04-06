@@ -14,10 +14,8 @@
 - 🏢 **Benha University - Faculty of Computer Science and artifitial intelgence**
 - 👨‍💻 I'm constantly learning new technologies to improve my skills.
 - 💬 **Ask me about**:
-- 🎯My experience with  C++, java , dart and python, Virlog.
-- 🎯 **Reservation aireline tickets** project.
-- 🎯 **Bank system** project.
-- 🎯 **Event Management system** project.
+- 🎯My experience with  C++, java , dart , python, Virlog.
+- 🎯My experience with  Data structure, Algorithm , PHP
   
 --- 
 ### Connect with Me :
