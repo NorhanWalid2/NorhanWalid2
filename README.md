@@ -53,7 +53,7 @@
 ###  Connect With Me
 
 <a href="https://www.linkedin.com/in/norhan-walid-a87852273/" target="_blank">
- 
+  <img src="https://img.shields.io/badge/LinkedIn-Norhan%20Walid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://codeforces.com/profile/Nopav" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-Norhan%20Walid-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
