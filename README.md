@@ -50,7 +50,7 @@
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <a href="https://www.linkedin.com/in/norhan-walid-a87852273/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Norhan%20Walid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -64,7 +64,7 @@
 
 ---
 
-### 💡 Interests
+###  Interests
 - Mobile Application Development  
 - Competitive Programming  
 - Software Engineering & System Design  
