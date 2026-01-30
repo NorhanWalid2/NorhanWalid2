@@ -17,16 +17,16 @@
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
-- 🎓 **B.Sc. in Computer Science & Artificial Intelligence**, Faculty of Computer Science, Benha University  
-- 📱 **Flutter Developer** with a strong interest in mobile application development  
-- 🚀 Continuously learning modern technologies and best practices in software engineering  
-- 🧠 Strong foundation in **problem solving, data structures, and algorithms**
+-  **B.Sc. in Computer Science & Artificial Intelligence**, Faculty of Computer Science, Benha University  
+-  **Flutter Developer** with a strong interest in mobile application development  
+-  Continuously learning modern technologies and best practices in software engineering  
+-  Strong foundation in **problem solving, data structures, and algorithms**
 
 ---
 
-### 🛠️ Technical Skills
+###  Technical Skills
 
 **Programming Languages**
 - C++, Java, Dart, Python, Verilog, PHP
