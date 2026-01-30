@@ -11,11 +11,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 **Benha University - Faculty of Computer Science and artifitial intelgence**
-- 👨‍💻 I'm constantly learning new technologies to improve my skills.
-- 💬 **Ask me about**:
-- 🎯My experience with  C++, java , dart , python, Virlog.
-- 🎯My experience with  Data structure, Algorithm , PHP
+-  **Benha University - Faculty of Computer Science and artifitial intelgence**
+-  I'm constantly learning new technologies to improve my skills.
+-  **Ask me about**:
+- My experience with  C++, java , dart , python, Virlog.
+- My experience with  Data structure, Algorithm , PHP
   
 --- 
 ### Connect with Me :
@@ -25,7 +25,7 @@
 <a href="http://t.me/Nopavv" target="_blank"><img src="https://img.shields.io/badge/-Norhan%20Walid-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
-### 🛠 &nbsp;Tech Stack
+###  &nbsp;Tech Stack
 - 💻 &nbsp;
 ![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
 ![Verilog](https://img.shields.io/badge/-Verilog-05122A?style=flat&logo=Verilog&logoColor=007ACC)&nbsp;
